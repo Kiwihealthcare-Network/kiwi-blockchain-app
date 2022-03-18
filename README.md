@@ -7,3 +7,4 @@ Kiwi Network is a Web3.0 healthcare service platform that adopts the token incen
 
 ![pic01](http://kiwihealthcare.network/en/wp-content/uploads/2022/03/pic_01.jpg)
 <img src="http://kiwihealthcare.network/en/wp-content/uploads/2022/03/pic_01.jpg" width="50%">
+<img src="http://kiwihealthcare.network/en/wp-content/uploads/2022/03/pic_01.jpg" width="25%">
