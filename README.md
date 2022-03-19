@@ -1,5 +1,5 @@
 # kiwi-blockchain-app
-App for kiwi
+App for Kiwi Network
 
 Download Android Apk: [KiwiNetwork v1.0.0.apk](https://github.com/Kiwihealthcare-Network/kiwi-blockchain-app/releases/download/v1.0.0/KiwiNetworkv1.0.0.apk)
 
