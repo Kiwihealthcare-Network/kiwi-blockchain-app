@@ -7,6 +7,4 @@ Kiwi Network is a Web3.0 healthcare service platform that adopts the token incen
 
 <img src="./img/pic_01.jpg" width="24%"> <img src="./img/pic_02.jpg" width="24%"> <img src="./img/pic_03.jpg" width="24%"> <img src="./img/pic_04.jpg" width="24%">
 
-Version 1.0.1
-1. Fixed language setting
-2. User’s experience optimized
+
