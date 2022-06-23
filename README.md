@@ -8,6 +8,7 @@ Kiwi Network is a Web3 decentralized health service platform and a healthy life 
 <img src="./img/pic_01.jpg" width="24%"> <img src="./img/pic_02.jpg" width="24%"> <img src="./img/pic_03.jpg" width="24%"> <img src="./img/pic_04.jpg" width="24%">
 
 What’s new?
+
 1.1.2
 - Upgrade mobile terminal side economic model, only those users who collected health date by authenticated devices can obtain 100% basic benefit, while manual data entry can only obtain 25% of basic benefit at most.
 - Integrate camera heart rate detection module as trusted or authenticated device.
