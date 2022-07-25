@@ -7,7 +7,7 @@ Kiwi Network is a Web3 decentralized healthy lifestyle platform that aims to con
 
 Based on Kiwi Network 1.0 which allow users can store their and their family’s health and medical data in the global blockchain network to get mKIK rewards. Kiwi 2.0 released a new AI visual-based light sport module, which allows users to perform movements on their mobile phones, such as jumping jacks, squats, push-ups, etc., and even do parkour on their mobile phones. The AI module can give intelligent scores to users' actions, calculate their energy consumption, and give certain KST and KMT rewards.
 
-<img src="./img/05.jpg" width="24%"> <img src="./img/06.jpg" width="24%"> <img src="./img/07.jpg" width="24%"> <img src="./img/08.jpg" width="24%">
+<img src="./img/05.jpg" width="24%"> <img src="./img/06.jpg" width="24%"> <img src="./img/08.jpg" width="24%"> <img src="./img/09.jpg" width="24%">
 
 What’s new?
 
