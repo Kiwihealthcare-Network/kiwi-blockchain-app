@@ -11,6 +11,10 @@ Based on Kiwi Network 1.0 which allow users can store their and their family’s
 
 What’s new?
 
+2.0.1
+- Fixed the calculation problem of parkour rewards
+- Fixed some known bugs
+
 2.0.0
 - AI based Light sport modules
 - Equipment NFT store
