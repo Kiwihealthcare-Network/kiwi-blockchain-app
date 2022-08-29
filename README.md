@@ -32,14 +32,14 @@ What’s new?
 - Equipment NFT store
 
 1.1.3
-- Upgrade mobile terminal side economic model, only those users who collected health date by authenticated devices can obtain 100% basic benefit, while manual data entry can only obtain 25% of basic benefit at most.
-- Integrate camera heart rate detection module as trusted or authenticated device.
-- User can extract data from Google Health Connect as trusted or authenticated device.
+- Upgrade mobile terminal side economic model, only those users who collected health date by authenticated devices can obtain 100% basic benefit, while manual data entry can only obtain 25% of basic benefit at most
+- Integrate camera heart rate detection module as trusted or authenticated device
+- User can extract data from Google Health Connect as trusted or authenticated device
 
 1.1.2
-- Upgrade mobile terminal side economic model, only those users who collected health date by authenticated devices can obtain 100% basic benefit, while manual data entry can only obtain 25% of basic benefit at most.
-- Integrate camera heart rate detection module as trusted or authenticated device.
-- User can extract data from Google Health Connect as trusted or authenticated device.
+- Upgrade mobile terminal side economic model, only those users who collected health date by authenticated devices can obtain 100% basic benefit, while manual data entry can only obtain 25% of basic benefit at most
+- Integrate camera heart rate detection module as trusted or authenticated device
+- User can extract data from Google Health Connect as trusted or authenticated device
 
 1.1.1
 - Fixed some known bugs
