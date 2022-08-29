@@ -14,7 +14,7 @@ What’s new?
 
 2.1.2
 -  Add new version detection
--  Fixed some known bugs. 
+-  Fixed some known bugs
 
 2.1.1
 - Fixed data save bug
