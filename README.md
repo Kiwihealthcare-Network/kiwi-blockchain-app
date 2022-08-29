@@ -12,6 +12,10 @@ Based on Kiwi Network 1.0 which allow users can store their and their family’s
 
 What’s new?
 
+2.1.2
+-  Add new version detection
+-  Fixed some known bugs. 
+
 2.1.1
 - Fixed data save bug
 
