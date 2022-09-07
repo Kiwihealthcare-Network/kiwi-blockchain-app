@@ -1,7 +1,7 @@
 # kiwi-blockchain-app
 App for Kiwi Network
 
-Download Android Apk: [KiwiNetwork.2.1.2.apk](https://github.com/Kiwihealthcare-Network/kiwi-blockchain-app/releases/download/v2.1.2/KiwiNetwork.2.1.2.apk)
+Download Android Apk: [KiwiNetwork.2.2.0.apk](https://github.com/Kiwihealthcare-Network/kiwi-blockchain-app/releases/download/v2.2.0/KiwiNetwork.2.2.0.apk)
 
 Kiwi Network is a Web3 decentralized healthy lifestyle platform that aims to conduct sociological experiments in the field of health care and healthy lifestyle. Kiwi Network advocates a positive and healthy lifestyle through the application of blockchain technology, and encourages users to take the initiative to pay attention to their daily health. By maintaining regular exercise, they can be refreshed, happy and have a more responsive brain. 
 
@@ -11,6 +11,10 @@ Based on Kiwi Network 1.0 which allow users can store their and their family’s
 
 
 What’s new?
+
+2.2.0
+-  Added visitor mode
+-  Simplifies the process of user registration and safe generation
 
 2.1.2
 -  Add new version detection
